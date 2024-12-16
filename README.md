@@ -8,3 +8,5 @@ source PATH/TO/ENV/bin/activate
 # install packages from requirement.txt and run setup
 pip install -r requirements.txt
 ```
+
+Taken from online tutorial - https://github.com/krishnaik06/mlproject (youtube: https://www.youtube.com/watch?v=_0v1UK7smBc&ab_channel=KrishNaik)
